@@ -1,7 +1,6 @@
+import './App.css'
 import MyComponent from './MyComponent'
 import MyComponent1 from './MyComponent1'
-import { useState } from 'react'
-import './App.css'
 
 function App() {
   
